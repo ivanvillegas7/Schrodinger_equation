@@ -1,4 +1,4 @@
-# Project-5
+# Application of Schrödinger’s equation in a box using a single, double and triple slit configuration
 
 We've used this repository to generate plots for supporting our report about a particle in a box going through one, two and three slits configurations.
 
